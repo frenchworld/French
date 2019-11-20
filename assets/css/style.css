@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(210,221,34,1) 0%, rgba(0,255,231,0.938813025210084) 50%);
+}
+a{
+    font-size: 1.5rem;
+}
+.navbar{
+  background-color: transparent;
+}
+.navbar-brand{
+  margin-left: 4%;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 3rem;
+  color:white;
+}
+.navbar-brand a:hover{
+    color: whitesmoke;
+}
+#fixedheight td {
+    width: 25%;
+}
+
+#fixedheight td div {
+    height: 20px;
+    overflow: hidden;
+}
+h1{
+    margin-top:5rem ;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 400px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+.td-color{
+    background-color: sandybrown;
+}
+.td-color1{
+    background-color: #ddffdd;
+}
+.td-color2{
+    background-color: #666666;
+    color:white;
+}
+.td-color3{
+    background-color: #79aec8;
+}
+.page-footer{
+    background-color: deepskyblue;
+}
+.container{
+    margin-bottom:2rem;
+}
